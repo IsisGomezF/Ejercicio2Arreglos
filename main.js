@@ -15,4 +15,4 @@ console.log(array2)
 let array3 = [10,40,30,20,15,5];
 array3.sort(function(a, b) {return a - b});
 
-console.log("El arreglo ordenado de menor a mayor " + array3);
+console.log("El arreglo ordenado de menor a mayor " + array3)
